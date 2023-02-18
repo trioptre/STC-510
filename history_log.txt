@@ -51,4 +51,18 @@ Untracked files:
 	[31mlog.tar.gz[m
 
 no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                ]7;file://Davids-MacBook-Air.local/Users/david/PythonDev/stc510[0m[27m[24m[J(base) david@Davids-MacBook-Air stc510 % [K[?2004hggit add results.ts xt
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Davids-MacBook-Air.local/Users/david/PythonDev/stc510[0m[27m[24m[J(base) david@Davids-MacBook-Air stc510 % [K[?2004hggit add results.ts xt history_log.txt[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Davids-MacBook-Air.local/Users/david/PythonDev/stc510[0m[27m[24m[J(base) david@Davids-MacBook-Air stc510 % [K[?2004hggit commit -m "[7m"Added name and title to[7m [7mresults file."[27m[K[A[41C[27m"[27mA[27md[27md[27me[27md[27m [27mn[27ma[27mm[27me[27m [27ma[27mn[27md[27m [27mt[27mi[27mt[27ml[27me[27m [27mt[27mo [27mr[27me[27ms[27mu[27ml[27mt[27ms[27m [27mf[27mi[27ml[27me[27m.[27m"[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Davids-MacBook-Air.local/Users/david/PythonDev/stc510[0m[27m[24m[J(base) david@Davids-MacBook-Air stc510 % [K[?2004h[7mgit commit -m ""Added name and title to[7m [7mresults file."[27m[K[A[26C[27mg[27mi[27mt[27m [27mc[27mo[27mm[27mm[27mi[27mt[27m [27m-[27mm[27m [27m"[27m"[27mA[27md[27md[27me[27md[27m [27mn[27ma[27mm[27me[27m [27ma[27mn[27md[27m [27mt[27mi[27mt[27ml[27me[27m [27mt[27mo [27mr[27me[27ms[27mu[27ml[27mt[27ms[27m [27mf[27mi[27ml[27me[27m.[27m"[?2004l
+[0m[27m[24m[Jdquote> [K[?2004h[?2004l
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Davids-MacBook-Air.local/Users/david/PythonDev/stc510[0m[27m[24m[J(base) david@Davids-MacBook-Air stc510 % [K[?2004hggit commit -m "added name and title to  [Krresults file"[?2004l
+[main 48a439d] added name and title to results file
+ 2 files changed, 26 insertions(+), 1 deletion(-)
+[1m[7m%[27m[1m[0m                                                                                ]7;file://Davids-MacBook-Air.local/Users/david/PythonDev/stc510[0m[27m[24m[J(base) david@Davids-MacBook-Air stc510 % [K[?2004heexit[?2004l
+
+Saving session...
+...saving history...truncating history files...
+...completed.
+
+Script done on Tue Feb 14 21:03:58 2023
